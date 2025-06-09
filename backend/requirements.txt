@@ -1,0 +1,5 @@
+fastapi==0.115.12
+uvicorn==0.34.3
+g4f==0.5.3.2
+python-multipart==0.0.20
+python-dotenv==1.0.0 
